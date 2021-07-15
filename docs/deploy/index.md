@@ -87,7 +87,7 @@ kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/cont
 
 ##### TLS termination in AWS Load Balancer (ELB)
 
-In some scenarios is required to terminate TLS in the Load Balancer and not in the ingress controller.
+In some scenarios, it is required to terminate TLS in the Load Balancer and not in the ingress controller.
 
 For this purpose we provide a template:
 
